@@ -1,0 +1,18 @@
+.divtenedor {
+    width: 35%;
+    max-width: 800px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.inicio {
+    padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #9B9B9B;
+    text-decoration: none;
+   
+ 
+}
