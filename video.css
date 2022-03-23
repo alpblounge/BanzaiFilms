@@ -1,31 +1,18 @@
 
 body {
-    background: #f3f3f3;
+    background-image: url(../Portafolio-Alonso-P-rez/img/pexels-rovenimagescom-949587.jpg);
+    background: hsl(0, 0%, 95%);
     font-family: 'Open Sans', sans-serif;
-}
-
-.divtenedor {
-   
-  background-size: 500%;
-    width: 35%;
-     max-width: 800px;
-    margin: auto;
-    align-items: center;
-    justify-content: center;
-    
-   
-}
-
-iframe {
-   
-    box-shadow: 50px 50px 100px 10px;
-   
     
 }
+
+
+
 
 .inicio {
     padding: 20px;
     text-align: center;
+    justify-content: center;
     text-transform: uppercase;
     color: #9B9B9B;
     text-decoration: none;
@@ -43,9 +30,23 @@ a {
     margin-left: 50px;
 }
 
-.backgroundimage {
-    background-image: url(../Portafolio-Alonso-P-rez/img/pexels-pixabay-276514.jpg);
+.container{
+    background-image: url(../Portafolio-Alonso-P-rez/img/pexels-cottonbro-3826435.jpg);
     background-size: contain;
     box-shadow: inset;
+    display:flex;
+   flex-direction: column;
+    
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+
 }
+
+.video1 {
+    
+}
+
+
+
 
